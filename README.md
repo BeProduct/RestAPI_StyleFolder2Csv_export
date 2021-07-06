@@ -1,4 +1,4 @@
-# BeProduct Export Style + Colorways to CSV File
+# Style Attributes + Colorways to CSV File
 
 
 # Documentation
